@@ -1,4 +1,4 @@
-# System Zaawansowanej Analizy Sentymentu i Eksploracji Tekstu Opinii Klientów Starbucks
+# Projekt zaliczeniowy
 
 System Zaawansowanej Analizy Sentymentu i Eksploracji Tekstu Opinii Klientów Starbucks - Stanislau Petrazhytski, Oleh Hryhorash, Aliaksandr Svirydau
 
